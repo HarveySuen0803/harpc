@@ -1,0 +1,4 @@
+roundRobin=com.harvey.loadbalancer.RoundRobinLoadBalancer
+random=com.harvey.loadbalancer.RandomLoadBalancer
+simpleHashLoadBalancer=com.harvey.loadbalancer.SimpleHashLoadBalancer
+consistentHashLoadBalancer=com.harvey.loadbalancer.ConsistentHashLoadBalancer

@@ -1,0 +1,2 @@
+jdk=com.harvey.serializer.JdkSerializer
+json=com.harvey.serializer.JsonSerializer

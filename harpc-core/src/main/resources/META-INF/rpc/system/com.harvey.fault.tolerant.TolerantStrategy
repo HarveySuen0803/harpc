@@ -1,0 +1,4 @@
+failBack=com.harvey.fault.tolerant.FailBackTolerantStrategy
+failOver=com.harvey.fault.tolerant.FailOverTolerantStrategy
+failFast=com.harvey.fault.tolerant.FailFastTolerantStrategy
+failSafe=com.harvey.fault.tolerant.FailSafeTolerantStrategy

@@ -1,0 +1,2 @@
+no=com.harvey.fault.retry.NoRetryStrategy
+fixedInterval=com.harvey.fault.retry.FixedIntervalRetryStrategy
