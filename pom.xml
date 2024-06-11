@@ -17,7 +17,7 @@
         <module>harpc-boot-api</module>
         <module>harpc-consumer</module>
         <module>harpc-provider</module>
-        <module>spring-boot-starter-harpc</module>
+        <module>harpc-boot-starter</module>
         <module>harpc-api</module>
     </modules>
 
